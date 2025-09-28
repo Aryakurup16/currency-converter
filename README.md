@@ -11,10 +11,6 @@ Real-time Input: Enter an amount and see the converted value instantly after pre
 
 Cross-Platform: Built with Flutter, this app can run on both Android and iOS devices from a single codebase.
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://placehold.co/300x600/78909c/ffffff%3Ftext%3DApp%2BScreenshot" alt="App Screenshot" width="250"/>
-</p>
-
 🛠️ Technology Stack
 Framework: Flutter
 
