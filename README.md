@@ -25,7 +25,7 @@ Ensure you have the Flutter SDK installed on your machine. For installation guid
 Installation
 Clone the repository:
 
-git clone [https://github.com/your-username/currency-converter.git](https://github.com/your-username/currency-converter.git)
+git clone [https://github.com/your-username/currency-converter.git](https://github.com/Aryakurup16/currency-converter.git)
 
 Navigate into the project directory:
 
